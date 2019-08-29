@@ -1,0 +1,66 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Mac_Middle_School_Portal.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="mem" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="lastProgram" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="theme" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="colorScheme" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="classroomVisible" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="classroomLoc" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 19</Value>
+    </Setting>
+    <Setting Name="classroomLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">504, 368</Value>
+    </Setting>
+    <Setting Name="macLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">624, 368</Value>
+    </Setting>
+    <Setting Name="skywardLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">744, 368</Value>
+    </Setting>
+    <Setting Name="desmosLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">864, 368</Value>
+    </Setting>
+    <Setting Name="prodigyLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">984, 368</Value>
+    </Setting>
+    <Setting Name="pivotLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">1104, 368</Value>
+    </Setting>
+    <Setting Name="mindplayLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">504, 488</Value>
+    </Setting>
+    <Setting Name="mmsLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">624, 488</Value>
+    </Setting>
+    <Setting Name="lunchmenuLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">744, 488</Value>
+    </Setting>
+    <Setting Name="todoBtn" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">864, 488</Value>
+    </Setting>
+    <Setting Name="docsLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">984, 488</Value>
+    </Setting>
+    <Setting Name="slidesBtn" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">1104, 488</Value>
+    </Setting>
+    <Setting Name="currentTimeVisible" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="myTheme" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
