@@ -13,4 +13,7 @@ While this program is complete, it will need to be modified for your corporation
 ### Warning
 This page is deprecated. I have stopped working on this program.
 
+### Support me
+You can visit my website: https://tectrasystems.org. You can also send me an email at: tectra.systems@gmail.com if you want to thank me or just say hi.
+
 ### Enjoy!
