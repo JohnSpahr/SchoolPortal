@@ -1,0 +1,16 @@
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\bin\Release\Mac Middle School Portal.exe.config
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\bin\Release\Mac Middle School Portal.exe
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\bin\Release\Mac Middle School Portal.pdb
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\bin\Release\Control.Draggable.dll
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\bin\Release\MaterialSkin.dll
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\obj\Release\Mac Middle School Portal.csprojAssemblyReference.cache
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\obj\Release\Mac_Middle_School_Portal.AboutBox1.resources
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\obj\Release\Mac_Middle_School_Portal.Properties.Resources.resources
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\obj\Release\Mac_Middle_School_Portal.Schedule.resources
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\obj\Release\Mac Middle School Portal.csproj.GenerateResource.cache
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\obj\Release\Mac Middle School Portal.csproj.CoreCompileInputs.cache
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\obj\Release\Mac Middle School Portal.csproj.CopyComplete
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\obj\Release\Mac Middle School Portal.exe
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\obj\Release\Mac Middle School Portal.pdb
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\obj\Release\Mac_Middle_School_Portal.Theme.resources
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\obj\Release\Mac_Middle_School_Portal.Form1.resources

@@ -1,0 +1,16 @@
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\bin\Debug\Mac Middle School Portal.exe
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\bin\Debug\Mac Middle School Portal.pdb
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\obj\Debug\Mac Middle School Portal.csprojAssemblyReference.cache
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\obj\Debug\Mac_Middle_School_Portal.Portal.resources
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\obj\Debug\Mac_Middle_School_Portal.Properties.Resources.resources
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\obj\Debug\Mac Middle School Portal.csproj.GenerateResource.cache
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\obj\Debug\Mac Middle School Portal.csproj.CoreCompileInputs.cache
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\obj\Debug\Mac Middle School Portal.exe
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\obj\Debug\Mac Middle School Portal.pdb
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\bin\Debug\Mac Middle School Portal.exe.config
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\bin\Debug\MaterialSkin.dll
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\obj\Debug\Mac Middle School Portal.csproj.CopyComplete
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\obj\Debug\Mac_Middle_School_Portal.Schedule.resources
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\bin\Debug\Control.Draggable.dll
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\obj\Debug\Mac_Middle_School_Portal.AboutBox1.resources
+C:\Users\John Spahr\source\repos\Mac Middle School Portal\Mac Middle School Portal\obj\Debug\Mac_Middle_School_Portal.Settings.resources
